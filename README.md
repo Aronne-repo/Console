@@ -69,5 +69,5 @@ project/
 ```
 
 ### Notes
-Sistema operativo supportato: Windows
+Sistema operativo supportato: Windows\n
 La risoluzione e lo zoom dello schermo possono influenzare la precisione del riconoscimento dei file .png
